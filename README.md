@@ -1,7 +1,7 @@
 # Analyze Retail Sales Performance Using Microsoft Excel
 <img width="1200" height="675" alt="excel bicycle sales performance" src="https://github.com/user-attachments/assets/f7056231-0890-440a-8994-271b7f54dde3" />
 
-This project analyzes sales performance of a global bicycle retail company using Excel. It converts raw transactional data into a structured data model and interactive dashboard, enabling management to track revenue, profit, regional performance, customer segments, and discount impact to support strategic planning for the next business cycle.
+This project analyzes **sales performance** of a **global bicycle retail company** using Microsoft Excel. It converts raw transactional data into a structured **data model** and **interactive dashboard**, enabling management to track revenue, profit, regional performance, customer segments, and discount impact to support strategic planning for the next business cycle.
 - **Author:** Le Dang Kim Ngan
 - **Tool Used:** Microsoft  Excel (Power Query, Power Pivot, Pivot Tables)
 
@@ -18,15 +18,7 @@ This project analyzes sales performance of a global bicycle retail company using
 
 ## ✨ Overview
 ### 🏢 Business Context
-This project analyzes **sales performance** of a **global retail bicycle company** operating across multiple countries and continents. The company sells various bicycle products to different customer segments and applies discount strategies to compete in a highly competitive retail market.
-
-However, raw data alone does not provide clear insights into:
-- Profitability trends
-- Regional performance gaps
-- Effectiveness of discount strategies
-- Customer segment contribution to revenue
-
-Management needs a centralized reporting system to support data-driven strategic planning for the next fiscal year.
+This project analyzes **sales performance** of a **global retail bicycle company** operating across multiple countries and continents. The company sells various bicycle products to different customer segments and applies discount strategies to compete in a highly competitive retail market. Management needs a **centralized reporting system** to support data-driven strategic planning for the next fiscal year.
 
 ### 🎯 Project Objective
 The main objective of this project is to build an **interactive Excel Dashboard** that enables the CEO and Directors to:
