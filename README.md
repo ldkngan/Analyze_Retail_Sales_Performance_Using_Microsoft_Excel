@@ -1,7 +1,7 @@
 # Analyze Retail Sales Performance Using Microsoft Excel
 <img width="1200" height="675" alt="excel bicycle sales performance" src="https://github.com/user-attachments/assets/f7056231-0890-440a-8994-271b7f54dde3" />
 
-This project analyzes **sales performance** of a **global bicycle retail company** using Microsoft Excel. It converts raw transactional data into a structured **data model** and **interactive dashboard**, enabling management to track revenue, profit, regional performance, customer segments, and discount impact to support strategic planning for the next business cycle.
+This project analyzes **sales performance** of a global bicycle retail company using **Microsoft Excel**. It converts raw transactional data into a structured **data model** and **interactive dashboard**, enabling management to track revenue, profit, regional performance, customer segments, and discount impact to support strategic planning for the next business cycle.
 - **Author:** Le Dang Kim Ngan
 - **Tool Used:** Microsoft  Excel (Power Query, Power Pivot, Pivot Tables)
 
